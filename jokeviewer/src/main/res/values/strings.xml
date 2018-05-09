@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JokeViewer</string>
+    <string name="joke_display_label">Here is a joke. LAUGH!</string>
+</resources>
